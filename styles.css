@@ -1,5 +1,5 @@
 body {
-    margin-left: 80px;
+    margin: 0;
     font-family: "Work Sans", sans-serif;
     font-weight: 400;
 }
@@ -7,6 +7,10 @@ body {
 .container {
     width: 80%;
     margin: 0 auto;
+}
+
+.content {
+    margin-left: 100px;
 }
 
 header{
